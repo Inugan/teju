@@ -1,0 +1,15 @@
+CURRENT CLIMATIC CONDITIONS IN Hyderabad
+Climate:	few clouds
+Latitude:	17.36°
+Longitude:	78.47°
+Temperature:	35.66°C
+Pressure:	1014°C
+Humidity:	27%
+Minimum_Temperature:	35°C
+Maximum_Temperature:	37°C
+Wind_Speed:	3.1m/s
+Cloudy: 	20%
+Sun_Rise:	Tue Apr 16 05:59:44 2019
+Sun_Set:	Tue Apr 16 18:31:57 2019
+****End of the Report****
+
