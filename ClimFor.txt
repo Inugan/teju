@@ -1,11 +1,11 @@
-CURRENT CLIMATIC CONDITIONS IN Hyderabad
+CURRENT CLIMATIC CONDITIONS IN <City>
 >>>>DAY_1 (Today)<<<< :	Tue Apr 16 14:30:00 2019
 Climate:	scattered clouds
-Temperature:	32.65캜
-Pressure:	1006.23캜
+Temperature:	32.65째C
+Pressure:	1006.23째C
 Humidity:	37%
-Minimum_Temperature:	32.65캜
-Maximum_Temperature:	33.25캜
+Minimum_Temperature:	32.65째C
+Maximum_Temperature:	33.25째C
 Wind_Speed:	2.38m/s
 Cloudy: 	44%
 Sea_level:	1006.23
@@ -15,11 +15,11 @@ Ground_level:	949.55
 >>>>DAY_2<<<< :	Wed Apr 17 23:30:00 2019
 
 Climate:	light rain
-Temperature:	25.59캜
-Pressure:	1010.89캜
+Temperature:	25.59째C
+Pressure:	1010.89째C
 Humidity:	58%
-Minimum_Temperature:	25.59캜
-Maximum_Temperature:	25.59캜
+Minimum_Temperature:	25.59째C
+Maximum_Temperature:	25.59째C
 Wind_Speed:	3.01m/s
 Cloudy: 	80%
 Sea_level:	1010.89
@@ -28,11 +28,11 @@ Ground_level:	953.1
 
 >>>>DAY_3<<<< :	Thu Apr 18 11:30:00 2019
 Climate:	clear sky
-Temperature:	35.95캜
-Pressure:	1009.8캜
+Temperature:	35.95째C
+Pressure:	1009.8째C
 Humidity:	33%
-Minimum_Temperature:	35.95캜
-Maximum_Temperature:	35.95캜
+Minimum_Temperature:	35.95째C
+Maximum_Temperature:	35.95째C
 Wind_Speed:	1.76m/s
 Cloudy: 	0%
 Sea_level:	1009.8
@@ -41,11 +41,11 @@ Ground_level:	952.52
 
 >>>>DAY_4<<<< :	Fri Apr 19 11:30:00 2019
 Climate:	light rain
-Temperature:	30.96캜
-Pressure:	1009.94캜
+Temperature:	30.96째C
+Pressure:	1009.94째C
 Humidity:	49%
-Minimum_Temperature:	30.96캜
-Maximum_Temperature:	30.96캜
+Minimum_Temperature:	30.96째C
+Maximum_Temperature:	30.96째C
 Wind_Speed:	2.76m/s
 Cloudy: 	44%
 Sea_level:	1009.94
@@ -54,11 +54,11 @@ Ground_level:	952.82
 
 >>>>DAY_5<<<< :	Sat Apr 20 23:30:00 2019
 Climate:	few clouds
-Temperature:	23.4캜
-Pressure:	1007.74캜
+Temperature:	23.4째C
+Pressure:	1007.74째C
 Humidity:	78%
-Minimum_Temperature:	23.4캜
-Maximum_Temperature:	23.4캜
+Minimum_Temperature:	23.4째C
+Maximum_Temperature:	23.4째C
 Wind_Speed:	2.17m/s
 Cloudy: 	20%
 Sea_level:	1007.74
