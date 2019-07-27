@@ -1,4 +1,4 @@
-CURRENT CLIMATIC CONDITIONS IN <City>
+CURRENT CLIMATIC CONDITIONS IN <City_of India>
 >>>>DAY_1 (Today)<<<< :	Tue Apr 16 14:30:00 2019
 Climate:	scattered clouds
 Temperature:	32.65°C
