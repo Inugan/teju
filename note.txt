@@ -1,6 +1,1 @@
-<<<<<< HEAD
-sdvvvvvw
-=======
-Something
-rean line
->>>>>>> 8dbc0bc946aa79c91729eebd7301292d106c27f9
+Edition
