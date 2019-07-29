@@ -1,12 +1,1 @@
-<<<<<<< HEAD
-Reverse Mapping
-||||||| merged common ancestors
-<<<<<< HEAD
-sdvvvvvw
-=======
-Something
-rean line
->>>>>>> 8dbc0bc946aa79c91729eebd7301292d106c27f9
-=======
-Edition
->>>>>>> 39f32da0a549a4617e49cd23e32a8ac0be733106
+Overwritten Content
