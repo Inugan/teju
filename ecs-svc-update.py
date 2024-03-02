@@ -51,7 +51,7 @@ for cluster_name in ecs_clusters:
         launch_type = service_desc['services'][0].get('launchType', '')
         if launch_type == 'EC2':
             average_cpu_utilization = get_avg_cpu_utilization(cluster_name, service_name)
-            if average_cpu_utilization != 0 and average_cpu_utilization < 15:
+            if average_cpu_utilization != 0 and average_cpu_utilization < 10:
                 #update_ecs_service_desired_count(cluster_name, service_name)
                 print(f"Service {service_name} in cluster {cluster_name} is scaled down to 0 tasks due to less CPU utilization.")
                 print("Now stopping the respective solr engines ...")
